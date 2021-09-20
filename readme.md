@@ -1,5 +1,19 @@
-## phpGrid Project Management Demo
+## Simple Project Management 
 
-Companion files for the online tutorial. 
+In our project management application, employees will be able to:
 
-Requires external library phpGrid from [phpgrid.com](http://phpgrid.com/download). Place phpGrid files in "phpGrid" folder.
+View their tasks
+
+Log in hours worked
+
+Managers will be able to:
+
+Manage projects
+
+Manage milestones
+
+Manage tasks
+
+Manage costs and hours
+
+Manage employee resources
